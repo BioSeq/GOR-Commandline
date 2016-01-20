@@ -9,7 +9,7 @@ import uuid
 # Files
 REF1 = "HVRI.fasta"
 REF2 = "HVRII.fasta"
-CONFIG = "config2.txt"
+CONFIG = "config.txt"
 DATA_LOC = "vcfs/"
 OUTPUT = "gorOutput-" + str(uuid.uuid4()) + ".fasta"
 
